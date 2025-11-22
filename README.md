@@ -77,11 +77,11 @@
   <br>
   <div align="center">
     <a href="https://github.com/Gabriel6966">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabriel6966&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
     </a>
     <br><br>
-    <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="375"/>
+    <a href="https://github.com/Gabriel6966">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel6966&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="375"/>
     </a>
   </div>
   <br>
@@ -95,13 +95,13 @@
   </summary>
   <br>
   <div align="center">
-    <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+    <a href="https://linkedin.com/in/gabriel-terente-9b4a0134a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://twitter.com/TU_USUARIO_TWITTER" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="mailto:tu_email@gmail.com" target="_blank">
+    <a href="mailto:gabrielteren221@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
