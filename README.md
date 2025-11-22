@@ -76,7 +76,7 @@
   </summary>
   <br>
   <div align="center">
-    <a href="https://github.com/TU_USUARIO_DE_GITHUB">
+    <a href="https://github.com/Gabriel6966">
       <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
     </a>
     <br><br>
