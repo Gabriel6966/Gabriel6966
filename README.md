@@ -39,10 +39,10 @@
 
 <details>
   <summary>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Skills%20and%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Skills" width="100%">
+    <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Skills%20and%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Skills%20and%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)" alt="Skills" width="100%">
   </summary>
   <br>
- <p align="center">
+  <p align="center">
     
     <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)">
     <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)">
@@ -68,13 +68,9 @@
     <img src="[https://img.shields.io/badge/VirtualBox-2196F3?style=for-the-badge&logo=virtualbox&logoColor=white](https://img.shields.io/badge/VirtualBox-2196F3?style=for-the-badge&logo=virtualbox&logoColor=white)">
     <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)">
     <img src="[https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)">
-</p>
+  </p>
   <br>
 </details>
-
-<br>
-
-<details>
   <summary>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A97BFF,100:36BCF7&height=100&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Stats" width="100%">
   </summary>
