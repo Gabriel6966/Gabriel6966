@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
   <h1>Hi, I'm</h1>
   <a href="https://github.com/GabrielMihaiTerente">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&background=00000000&center=true&vCenter=true&width=500&height=60&size=35&lines=Gabriel+Mihai+Terente" alt="Gabriel Mihai Terente" />
@@ -14,14 +18,20 @@
 <br>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="150">
+</div>
+
+<br>
+
+<div align="center">
 
 <details>
   <summary>
-    <h2>🌱 About Me (Click to expand)</h2>
+    <h2>🌌 About Me (Mission Status)</h2>
   </summary>
   <br>
   <picture>
-     <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="200px">
+     <img align="right" src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" style="border-radius:10px;">
   </picture>
   <ul align="left">
     <li>👨‍💻 Passionate <b>Front-End & Back-End Developer</b>.</li>
@@ -35,7 +45,7 @@
 
 <details>
   <summary>
-    <h2>🛠️ Skills & Tools (Click to see)</h2>
+    <h2>🛰️ Skills & Tools (Tech Stack)</h2>
   </summary>
   <br>
   <p align="center">
@@ -58,16 +68,16 @@
 
 <details>
   <summary>
-    <h2>📊 GitHub Stats (Click to view)</h2>
+    <h2>☄️ GitHub Stats (Data Log)</h2>
   </summary>
   <br>
   <div align="center">
     <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
     </a>
     <br><br>
     <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="375"/>
     </a>
   </div>
   <br>
@@ -75,7 +85,7 @@
 
 <details>
   <summary>
-    <h2>🤝 Let's Connect! (Click to open)</h2>
+    <h2>🪐 Let's Connect (Communication)</h2>
   </summary>
   <br>
   <div align="center">
@@ -88,17 +98,15 @@
     <a href="mailto:tu_email@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <br><br>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
   </div>
   <br>
 </details>
 
 </div>
 
-<br><br>
+<br>
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h3>Thanks for visiting! ✨</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <h3>End of transmission... ✨</h3>
 </div>
