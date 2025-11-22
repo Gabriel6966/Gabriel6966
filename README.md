@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
   <h1>Hi, I'm</h1>
+  
   <a href="https://github.com/GabrielMihaiTerente">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&background=00000000&center=true&vCenter=true&width=500&height=60&size=35&lines=Gabriel+Mihai+Terente" alt="Gabriel Mihai Terente" />
   </a>
@@ -18,22 +15,17 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="150">
-</div>
-
-<br>
-
-<div align="center">
 
 <details>
   <summary>
-    <h2>🌌 About Me (Mission Status)</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A97BFF,100:36BCF7&height=100&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="About Me" width="100%">
   </summary>
   <br>
   <picture>
      <img align="right" src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="200px" style="border-radius:10px;">
   </picture>
   <ul align="left">
+    <br>
     <li>👨‍💻 Passionate <b>Front-End & Back-End Developer</b>.</li>
     <li>🚀 Constantly learning new web technologies.</li>
     <li>🌐 My personal website: <a href="https://your-website.com">Link to your site</a></li>
@@ -43,9 +35,11 @@
   <br>
 </details>
 
+<br>
+
 <details>
   <summary>
-    <h2>🛰️ Skills & Tools (Tech Stack)</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Skills%20%26%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Skills" width="100%">
   </summary>
   <br>
   <p align="center">
@@ -66,9 +60,11 @@
   <br>
 </details>
 
+<br>
+
 <details>
   <summary>
-    <h2>☄️ GitHub Stats (Data Log)</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A97BFF,100:36BCF7&height=100&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Stats" width="100%">
   </summary>
   <br>
   <div align="center">
@@ -83,9 +79,11 @@
   <br>
 </details>
 
+<br>
+
 <details>
   <summary>
-    <h2>🪐 Let's Connect (Communication)</h2>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Let's%20Connect&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Connect" width="100%">
   </summary>
   <br>
   <div align="center">
@@ -104,9 +102,8 @@
 
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h3>End of transmission... ✨</h3>
+<div align='center'>
+  <h3>Thanks for visiting! ✨</h3>
 </div>
