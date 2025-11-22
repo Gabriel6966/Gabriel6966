@@ -1,3 +1,11 @@
+¡Vaya, lo siento! Tienes toda la razón. Ese error (xmlParseEntityRef: no name) aparece porque el generador de la imagen "ola" se rompe al intentar leer el símbolo "&" (en "Skills & Stack"). El código XML piensa que es una instrucción de programación incompleta y da error.
+
+Aquí tienes el código reparado. He cambiado "Skills & Stack" por "Skills and Stack" y he revisado que no haya ningún otro símbolo que pueda dar problemas.
+
+Copia y pega todo esto de nuevo y te funcionará perfecto:
+
+Markdown
+
 <div align="center">
   <h1>Hi, I'm</h1>
   
@@ -8,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=22&center=true&vCenter=true&width=700&height=80&lines=Hi!+Nice+to+see+you+on+my+profile;Front-End+%26+Back-End+Developer;Consistency+%26+Effort+are+the+basis+of+success;Imagination+%2B+Programming...;...have+no+limits!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=36BCF7&size=22&center=true&vCenter=true&width=700&height=80&lines=Hi!+Nice+to+see+you+on+my+profile;Front-End+%2B+Back-End+Developer;Consistency+%2B+Effort+are+the+basis+of+success;Imagination+%2B+Programming...;...have+no+limits!">
   </a>
 </p>
 
@@ -39,7 +47,7 @@
 
 <details>
   <summary>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Skills%20%26%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Skills" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:A97BFF&height=100&section=header&text=Skills%20and%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Skills" width="100%">
   </summary>
   <br>
   <p align="center">
