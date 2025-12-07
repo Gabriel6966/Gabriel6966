@@ -79,12 +79,18 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Gabriel6966">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel6966&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A97BFF,100:36BCF7&height=100&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Stats" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/GabrielMihaiTerente">
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielMihaiTerente&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
   </a>
   <br><br>
-  <a href="https://github.com/Gabriel6966">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel6966&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="375"/>
+  <a href="https://github.com/GabrielMihaiTerente">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMihaiTerente&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="375"/>
   </a>
 </div>
 
