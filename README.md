@@ -26,7 +26,7 @@
          <ul align="left">
             <li>👨‍💻 Passionate <b>Front-End & Back-End Developer</b>.</li>
             <li>🚀 Constantly learning new web technologies.</li>
-            <li>🌐 My personal website: <a href="https://your-website.com">Link to your site</a></li>
+            <li>🌐 My personal website: <a href="#">Link to your site</a></li>
             <li>📫 Open to collaborations and new job opportunities.</li>
             <li>🧠 <b>Motto:</b> "Imagination and programming have no limits".</li>
          </ul>
@@ -69,30 +69,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A97BFF,100:36BCF7&height=100&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Stats" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A97BFF,100:36BCF7&height=100&section=header&text=GitHub%20Stats&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Stats" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/GabrielMihaiTerente">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielMihaiTerente&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="450"/>
-  </a>
-  <br><br>
-  <a href="https://github.com/GabrielMihaiTerente">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMihaiTerente&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A97BFF&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" width="375"/>
-  </a>
-</div>
 
 <br>
 
