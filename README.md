@@ -26,7 +26,7 @@
          <ul align="left">
             <li>👨‍💻 Passionate <b>Front-End & Back-End Developer</b>.</li>
             <li>🚀 Constantly learning new web technologies.</li>
-            <li>🌐 My personal website: <a href="http://127.0.0.1:5500/index.html">Personal-Portfolio</a></li>
+            <li>🌐 My personal website: <a href="https://Gabriel6966.github.io/portfolio/">Personal-Portfolio</a></li>
             <li>📫 Open to collaborations and new job opportunities.</li>
             <li>🧠 <b>Motto:</b> "Imagination and programming have no limits".</li>
          </ul>
